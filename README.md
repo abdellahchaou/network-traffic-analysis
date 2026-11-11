@@ -9,5 +9,6 @@ Hands-on network traffic analysis using **tcpdump** and **Wireshark** on Kali Li
 - [x] Network troubleshooting (Bridged → NAT)
 - [x] Capture 01: ICMP baseline
 - [x] Capture 02: DNS
-- [ ] Capture 03: HTTP vs HTTPS
+- [x] Capture 03: HTTP vs HTTPS
 - [ ] Capture 04: Port scan detection
+> **Privacy note:** The Capture 03 pcap is not published because it contains the lab's public IP address. Screenshots are provided with the IP redacted.

@@ -1,0 +1,3 @@
+# Capture 03 is kept local only:
+# it contains the lab's public IP address (httpbin "origin" field).
+captures/03-http-vs-https.pcap
